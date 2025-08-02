@@ -1,7 +1,7 @@
 # 📚 The Lesson Landing Page
 
 This is a personal website built with HTML, CSS, JavaScript showcasing my Frontend skills and documenting my amazing projects on my journey to becoming a Frontend Developer.
-# My Website on computer:
+# My Page on computer:
  ![Pc](./Lesson__img.png) 
 ## 🎯 Goal: 
 - Demonstrate my **HTML/CSS**, **JavaScript** skills through a beautiful and smooth interface.
