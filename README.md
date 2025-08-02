@@ -20,7 +20,7 @@ This is a personal website built with HTML, CSS, JavaScript showcasing my Fronte
    cd The-Lesson-Website
    ```
 3. **Open the CV**:
-   - Open `index.html` in a browser to view the website
+   - Open `index.html` in a browser to view the page
    - Alternatively, deploy to GitHub Pages or a web server.
 
 ---
